@@ -1,7 +1,7 @@
 ### Hey there, I'm Rakshan Sharma a.k.a Rocky.
 
 ## I'm a high school senior. Currently obsseseed with Artificial Intelligence. Recently got into UX/UI Design, Web Development. Cybersecurity Hobbyist.
-- 🌱 I’m currently learning all I can about Artificial Intelligece. Currently doing Prof. Yann LeCun's Deep Learning Course online.
+- 🌱 Currently doing Prof. Yann LeCun's Deep Learning Course online.
 - ⚡ I'm a musician. I like to cook. Love guitar. Metalhead!
 - 📫 Say Hi to me via [mail](mailto:rakshan793@gmail.com)
 - :globe_with_meridians: [Check out my website](https://freakingrocky.github.io)
