@@ -6,18 +6,18 @@
 - :globe_with_meridians: [Check out my website](https://freakingrocky.github.io)
 
 ### Programming Languages I Know
-![Python](https://img.shields.io/badge/python-969c2a?style=for-the-badge&logo=python&logoColor=white)
+[<img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img alt="Matlab" width="30px" src="https://i.imgur.com/I7nBlZ5.png" />
-![Octave](https://img.shields.io/badge/octave-23ded1?style=for-the-badge&logo=octave&logoColor=white)
+<img alt="Octave" width="30px" src="https://www.gnu.org/software/octave/img/octave-logo.svg" />
 <img alt="Qt" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />
 <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img alt="Julia" src="https://img.shields.io/badge/julia-2c1199?style=for-the-badge&logo=julia&logoColor=white" />
+<img alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/846px-The_C_Programming_Language_logo.svg.png" />
+<img alt="Gatsby" width="30px" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" />
+<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt="sqlite" width="60px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />
+<img alt="Julia" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" />]
 
 
 
