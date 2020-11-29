@@ -23,7 +23,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakingrocky&layout=compact&cache_seconds=1800&theme=gotham&card_width=1000&exclude_repo=Naive-Bayes-Language-Classifier)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### My Definition of AI
+*An intelligent agent is one that can do things to which we would attribute intelligence if done by biological beings.*
 
 ### Currently Listening To
 | | | |
