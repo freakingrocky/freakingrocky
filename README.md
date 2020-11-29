@@ -1,6 +1,6 @@
 ### Hey there, I'm Rakshan Sharma a.k.a Rocky.
 [![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&include_all_commits=true&custom_title=Rocky's%20stats&theme=gotham&show_icons=true&hide=contribs)](https://github.com/freakingrocky/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakingrocky&layout=compact&theme=gotham&exclude_repo=Naive-Bayes-Language-Classifier)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## I'm a high school senior. Currently obsseseed with Artificial Intelligence. Recently got into UX/UI Design, Web Development. Cybersecurity Hobbyist.
 - 🌱 Currently doing Prof. Yann LeCun's Deep Learning Course online.
@@ -21,6 +21,7 @@
 <img alt="sqlite" width="60px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />
 <img alt="Julia" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" />](https://freakingrocky.github.io)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakingrocky&layout=compact&theme=gotham&exclude_repo=Naive-Bayes-Language-Classifier)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
