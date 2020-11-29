@@ -7,7 +7,7 @@
 - ⚡ I'm a musician. I like to cook. Love guitar. Metalhead!
 - :globe_with_meridians: [Check out my website](https://freakingrocky.github.io)
 
-### Programming Languages I Know
+### Stuff I Know
 [<img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img alt="Matlab" width="30px" src="https://i.imgur.com/I7nBlZ5.png" />
 <img alt="Octave" width="30px" src="https://www.gnu.org/software/octave/img/octave-logo.svg" />
