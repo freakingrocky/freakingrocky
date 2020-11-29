@@ -17,7 +17,7 @@
 <img alt="Gatsby" width="30px" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" />
 <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img alt="sqlite" width="60px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />
-<img alt="Julia" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" />]
+<img alt="Julia" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" />](https://freakingrocky.github.io)
 
 
 
