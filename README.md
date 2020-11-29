@@ -1,4 +1,6 @@
 ### Hey there, I'm Rakshan Sharma a.k.a Rocky.
+[![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&include_all_commits=true&custom_title=Rocky's%20stats&theme=gotham&show_icons=true&hide=contribs)](https://github.com/freakingrocky/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakingrocky&layout=compact&theme=gotham&exclude_repo=Naive-Bayes-Language-Classifier)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm a high school senior. Currently obsseseed with Artificial Intelligence. Recently got into UX/UI Design, Web Development. Cybersecurity Hobbyist.
 - 🌱 Currently doing Prof. Yann LeCun's Deep Learning Course online.
@@ -21,14 +23,13 @@
 
 
 
+
 ### Currently Listening To
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://images-na.ssl-images-amazon.com/images/I/71EB-LKc0XL._SL1050_.jpg">  Waves by Guthrie Govan |  <img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://steamuserimages-a.akamaihd.net/ugc/782985556312103183/D60776ACF65858578A3D709DD97A6CF34530D039/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"> Fear Inoculum by Tool (Full Album) |<img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://m.media-amazon.com/images/I/717lRrs59kL._SS500_.jpg"> Omni, Titan, Hos Down by Jaosn Richardson |
 |<img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.pinimg.com/originals/a3/d5/67/a3d567499378d19171069116502becb1.png"> Everything Marilyn Manson |<img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://c4.wallpaperflare.com/wallpaper/617/515/771/slipknot-wanyk-we-are-not-your-kind-2019-hd-wallpaper-preview.jpg"> Everything Slipknot | <img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://www.prog-sphere.com/wp-content/uploads/2016/08/Periphery-Select-Difficulty.jpg"> Marigold by Periphery |
 
-[![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&theme=dracula)](https://github.com/freakingrocky/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakingrocky&layout=compact&theme=dracula&exclude_repo=Naive-Bayes-Language-Classifier)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
