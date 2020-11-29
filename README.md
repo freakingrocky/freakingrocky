@@ -7,10 +7,10 @@
 
 ### Programming Languages I Know
 ![Python](https://img.shields.io/badge/python-969c2a?style=for-the-badge&logo=python&logoColor=white)
-![Matlab](https://img.shields.io/badge/matlab-f07d30?style=for-the-badge&logo=matlab&logoColor=white)
+<img alt="Matlab" width="30px" src="https://i.imgur.com/I7nBlZ5.png" />
 ![Octave](https://img.shields.io/badge/octave-23ded1?style=for-the-badge&logo=octave&logoColor=white)
-![Qt](https://img.shields.io/badge/qt-2c1199?style=for-the-badge&logo=qt&logoColoe=white)
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="Qt" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />
+<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
