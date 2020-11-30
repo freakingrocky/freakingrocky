@@ -1,5 +1,5 @@
 ### Hey there, I'm Rocky.
-[![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&include_all_commits=true&custom_title=Rocky's%20stats&cache_seconds=1800&theme=gotham&show_icons=true&hide=contribs)](https://github.com/freakingrocky/github-readme-stats)
+[![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&include_all_commits=true&custom_title=Rocky's%20stats&cache_seconds=7200&theme=gotham&show_icons=true&hide=contribs)](https://github.com/freakingrocky/github-readme-stats)
 
 
 ## I'm a high school senior. Currently obsseseed with Artificial Intelligence. Recently got into UX/UI Design, Web Development. Cybersecurity Hobbyist.
