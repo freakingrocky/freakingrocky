@@ -1,5 +1,5 @@
 ### Hey there, I'm Rocky.
-[![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&include_all_commits=true&custom_title=Rocky's%20stats&theme=gotham&show_icons=true&hide=contribs)](https://github.com/freakingrocky/github-readme-stats)
+![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&include_all_commits=true&custom_title=Rocky's%20stats&theme=gotham&show_icons=true&hide=contribs)
 
 
 ## I'm a high school senior. Currently obsseseed with Artificial Intelligence. Recently got into UX/UI Design, Web Development. Cybersecurity Hobbyist.
@@ -21,7 +21,7 @@
 <img alt="sqlite" width="60px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />
 <img alt="smalltalk" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/GNU_Smalltalk_logo.svg/887px-GNU_Smalltalk_logo.svg.png" />](https://freakingrocky.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakingrocky&layout=compact&theme=gotham&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakingrocky&layout=compact&theme=gotham&card_width=1000&langs_count=10)
 
 
 ### Currently Listening To
