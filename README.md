@@ -9,6 +9,7 @@
 
 ### Stuff I Use
 [<img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img alt="TensorFlow" width="40px" src="./TF_FullColor_Icon.jpg" />
 <img alt="Matlab" width="40px" src="https://i.imgur.com/I7nBlZ5.png" />
 <img alt="Octave" width="40px" src="https://www.gnu.org/software/octave/img/octave-logo.svg" />
 <img alt="Qt" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />
@@ -19,7 +20,7 @@
 <img alt="Gatsby" width="40px" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" />
 <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img alt="sqlite" width="60px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />
-<img alt="TensorFlow" width="40px" src="./TF_FullColor_Icon.jpg" />](https://freakingrocky.github.io)
+](https://freakingrocky.github.io)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakingrocky&layout=compact&theme=gotham&card_width=1000&langs_count=10)
 
