@@ -2,7 +2,7 @@
 ![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&include_all_commits=true&custom_title=Rocky's%20stats&theme=gotham&show_icons=true&hide=contribs)
 
 
-## I'm a high school senior. Currently obsseseed with Artificial Intelligence. Recently got into UX/UI Design, Web Development. Cybersecurity Hobbyist.
+## I'm a high school senior. Currently obsessed with Artificial Intelligence. Recently got into UX/UI Design, Web Development. Cybersecurity Hobbyist.
 - 🌱 Currently doing Prof. Yann LeCun's Deep Learning Course online.
 - ⚡ I'm a musician. I like to cook. Love guitar. Metalhead!
 - :globe_with_meridians: [Check out my website](https://freakingrocky.github.io)
