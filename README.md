@@ -2,10 +2,9 @@
 ![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&include_all_commits=true&custom_title=Rocky's%20stats&theme=gotham&show_icons=true&hide=contribs)
 
 
-## I'm a high school senior. Currently obsessed with Artificial Intelligence. Recently got into Web Development. Cybersecurity Hobbyist.
-- 🌱 Currently doing Prof. Yann LeCun's Deep Learning Course online.
+## Year 1 Student - Bachelor of Arts & Sciences in Applied Artificial Intelligence at The University of Hong Kong
+- 🌱 Shredding. Coding. Breathing.
 - ⚡ I'm a musician. I like to cook. Love guitar. Metalhead!
-- :globe_with_meridians: [Check out my website](https://freakingrocky.github.io)
 
 ### Stuff I Use
 [<img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
