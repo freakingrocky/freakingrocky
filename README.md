@@ -2,7 +2,7 @@
 ![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&include_all_commits=true&custom_title=Rocky's%20stats&theme=gotham&show_icons=true&hide=contribs)
 
 
-## Year 1 Student - Bachelor of Arts & Sciences in Applied Artificial Intelligence at The University of Hong Kong
+## Year 2 Student - Bachelor of Arts & Sciences in Applied Artificial Intelligence at The University of Hong Kong
 - 🌱 Shredding. Coding. Breathing.
 - ⚡ I'm a musician. I like to cook. Love guitar. Metalhead!
 
