@@ -1,5 +1,7 @@
 ### Hey there, I'm Rocky.
+<!--
 ![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=freakingrocky&include_all_commits=true&custom_title=Rocky's%20stats&theme=gotham&show_icons=true&hide=contribs)
+-->
 
 
 ## Year 2 Student - Bachelor of Arts & Sciences in Applied Artificial Intelligence at The University of Hong Kong
@@ -21,8 +23,9 @@
 <img alt="sqlite" width="60px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />
 ](https://freakingrocky.github.io)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakingrocky&layout=compact&theme=gotham&card_width=1000&langs_count=10)
-
+-->
 
 ### Currently Listening To
 | | | |
