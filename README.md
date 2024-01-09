@@ -4,7 +4,7 @@
 -->
 
 
-## Year 2 Student - Bachelor of Arts & Sciences in Applied Artificial Intelligence at The University of Hong Kong
+## Year 3 Student - Bachelor of Arts & Sciences in Applied Artificial Intelligence at The University of Hong Kong
 - 🌱 Shredding. Coding. Breathing.
 - ⚡ I'm a musician. I like to cook. Love guitar. Metalhead!
 
@@ -26,13 +26,13 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakingrocky&layout=compact&theme=gotham&card_width=1000&langs_count=10)
 -->
-
+<!--
 ### Currently Listening To
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |[<img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://images-na.ssl-images-amazon.com/images/I/71EB-LKc0XL._SL1050_.jpg">  Waves by Guthrie Govan](https://www.youtube.com/watch?v=U75g2mDTXtA) |  [<img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://steamuserimages-a.akamaihd.net/ugc/782985556312103183/D60776ACF65858578A3D709DD97A6CF34530D039/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"> Fear Inoculum by Tool (Full Album)](https://www.youtube.com/playlist?list=PL9tY0BWXOZFvFt-1QPSFwHk_wIb4ywzM1) |[<img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://m.media-amazon.com/images/I/717lRrs59kL._SS500_.jpg"> Omni, Titan, Hos Down by Jaosn Richardson](https://www.youtube.com/playlist?list=PLfPSgPgcQPO5h-So04-l8YEzcYAUkkfPf) |
 |[<img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.pinimg.com/originals/a3/d5/67/a3d567499378d19171069116502becb1.png"> Everything Marilyn Manson](https://www.youtube.com/channel/UCbirjI1K3MGu0-Y1gTBNR5w) | [<img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://c4.wallpaperflare.com/wallpaper/617/515/771/slipknot-wanyk-we-are-not-your-kind-2019-hd-wallpaper-preview.jpg"> Everything Slipknot](https://www.youtube.com/user/slipknot) | [<img width="1000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.kfs.io/album/global/16520699,1v1/fit/500x500.jpg"> Marigold by Periphery](https://www.youtube.com/watch?v=rmtU2WJfPgU) |
-
+-->
 
 
 <!--
