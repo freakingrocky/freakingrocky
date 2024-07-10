@@ -4,12 +4,13 @@
 -->
 
 
-## Year 3 Student - Bachelor of Arts & Sciences in Applied Artificial Intelligence at The University of Hong Kong
+## Year 4 Student - Bachelor of Arts & Sciences in Applied Artificial Intelligence at The University of Hong Kong
 - 🌱 Shredding. Coding. Breathing.
 - ⚡ I'm a musician. I like to cook. Love guitar. Metalhead!
 
 ### Stuff I Use
 [<img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img alt="JAVA" width="40px" src="https://i.pinimg.com/564x/36/6a/3f/366a3f497b653f18e354f25bd4dd0dce.jpg" />
 <img alt="TensorFlow" width="40px" src="./TF_FullColor_Icon.jpg" />
 <img alt="Matlab" width="40px" src="https://i.imgur.com/I7nBlZ5.png" />
 <img alt="Octave" width="40px" src="https://www.gnu.org/software/octave/img/octave-logo.svg" />
